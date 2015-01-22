@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/minglim/ALU32/alu32_tb_isim_beh.exe" -prj "/home/minglim/ALU32/alu32_tb_beh.prj" "work.alu32_tb" 

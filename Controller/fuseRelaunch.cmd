@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/minglim/Controller/control_tb_isim_beh.exe" -prj "/home/minglim/Controller/control_tb_beh.prj" "work.control_tb" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/minglim/RegisterBank/reg_bank_tb_isim_beh.exe" -prj "/home/minglim/RegisterBank/reg_bank_tb_beh.prj" "work.reg_bank_tb" 
